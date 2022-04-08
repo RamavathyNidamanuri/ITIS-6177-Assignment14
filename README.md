@@ -21,7 +21,7 @@ npm ci
 ## Run the application
 
 ```sh
-npm start.
+npm start
 ```
 
 You can also run `node .` to skip the build step.
